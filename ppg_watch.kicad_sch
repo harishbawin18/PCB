@@ -1,0 +1,55 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "db625aa4-7a10-4f3d-9367-39680fc7f47b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 154.94 83.82)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00a7f0dd-865b-4e63-bd7f-b1ba6032bd68")
+		(property "Sheetname" "Full_schematic"
+			(at 154.94 83.566 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "battery.kicad_sch"
+			(at 154.94 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ppg_watch"
+				(path "/db625aa4-7a10-4f3d-9367-39680fc7f47b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
